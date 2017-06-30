@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerSpawner.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerShooting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyShooting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DamageHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FacesPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveForward.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SelfDestruct.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScrollUV.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackgroundSize.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TouchControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Restart.cs" Line="27" Column="6" />
+      <File FileName="Assets\Scripts\TitleStart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
